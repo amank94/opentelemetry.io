@@ -1,0 +1,21 @@
+# cSpell:ignore llamaindex
+title: LlamaIndex Javascript instrumentation
+registryType: instrumentation
+language: javascript
+tags:
+  - javascript
+  - instrumentation
+  - llamaindex
+urls:
+  repo: https://github.com/Arize-ai/openinference/tree/main/js/packages/openinference-instrumentation-llama-index
+  docs: https://github.com/Arize-ai/openinference/tree/main/js/packages/openinference-instrumentation-llama-index
+license: Apache 2.0 
+description: Instrumentation for tracing LlamaIndex framework
+authors:
+  - name: Arize Phoenix
+    email: oss-devs@arize.com
+createdAt: 2024-06-05
+package:
+  registry: npm
+  name: '@arizeai/openinference-instrumentation-llama-index'
+  version: 0.43.0
